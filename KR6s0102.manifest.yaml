@@ -1,0 +1,351 @@
+canonical_identifier: bkk:krp/KR6s0102/v1
+canonical_location: https://kanripo.org/bkk/KR6s0102/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大藏聖教法寶標目
+  identifiers:
+    alt_id:
+    - L143n1608
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/L/L143/L143n1608.xml
+    old_id: L143n1608
+  edition:
+    short: bkk
+editions:
+- short: 龍
+  label: 龍
+  source_xml_id: wit.orig
+- short: L
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0102_000.yaml, hash: 'sha256:1af05a5b13a40d303bb3aabadf9c91eb4e570b7e98eb616681d715e1799036f8'}
+  - {seq: 1, filename: KR6s0102_001.yaml, hash: 'sha256:68a6adc83a24f3e1e3e009a74c6941cd89da63166d442b3ea93db69f2f85f3fd'}
+  - {seq: 2, filename: KR6s0102_002.yaml, hash: 'sha256:f67e18f4f4b9846957a3ff8af0d05be3cabe00b8528cb75acffa4003e45b26d4'}
+  - {seq: 3, filename: KR6s0102_003.yaml, hash: 'sha256:71104826ec7fec70c13639cfbea77cfc088b746f74394d2e0cda40dd47591281'}
+  - {seq: 4, filename: KR6s0102_004.yaml, hash: 'sha256:ca35b972fe18c721231de16cb9bca0080dabd56d5a480985a21149fde6f44ae1'}
+  - {seq: 5, filename: KR6s0102_005.yaml, hash: 'sha256:6f332ae0c47bab686ad0bf4e08d9a6a90a6267d3509a649039709a1941f3ccdd'}
+  - {seq: 6, filename: KR6s0102_006.yaml, hash: 'sha256:11494c154bc7ad12658bbc665b5fc2502f23c5cc7166db820629079db24911f7'}
+  - {seq: 7, filename: KR6s0102_007.yaml, hash: 'sha256:a830cdb472e8bd1c86824778310ec4888704ed22005c34c6edbd7685bcb3119f'}
+  - {seq: 8, filename: KR6s0102_008.yaml, hash: 'sha256:4f3d954ec54079152f561996c7a2f36cb792867fd1ebafc57fadcdcde5a485c9'}
+  - {seq: 9, filename: KR6s0102_009.yaml, hash: 'sha256:50d0332e752c8c6cdaa74848889c7f5c1498950bd86434955dc03aca5954940f'}
+  - {seq: 10, filename: KR6s0102_010.yaml, hash: 'sha256:740f23938b8f6855357010e144dd6661443ebe08e9c1d253cef8c575178deaa2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0102_000.markers.yaml, hash: 'sha256:98ff68c097d2afb962c31c795f4f43c2a4c33143b207cfe22f343bd11fcb2f94'}
+  - {seq: 1, role: markers, filename: assets/KR6s0102_001.markers.yaml, hash: 'sha256:df6b8b16c7bc562c3528b211a534b309efd4d758f7c7a6b80dc12613d2d49f4a'}
+  - {seq: 2, role: markers, filename: assets/KR6s0102_002.markers.yaml, hash: 'sha256:90d14f8c6cfcb1cf87d672dbf04b04175dc41882b4b251b585911527cea521ef'}
+  - {seq: 3, role: markers, filename: assets/KR6s0102_003.markers.yaml, hash: 'sha256:bbe62331f20670470e5de3e16c7548aa22be74cce61e8ba460156379436ecbde'}
+  - {seq: 4, role: markers, filename: assets/KR6s0102_004.markers.yaml, hash: 'sha256:7410e88c8d6a87f72d572d7f524315799ff83bf449cd1f53507c07eda2d22084'}
+  - {seq: 5, role: markers, filename: assets/KR6s0102_005.markers.yaml, hash: 'sha256:04eaf2ba318955600c71a553adba297a926ca2b8236833b31945f740638475bc'}
+  - {seq: 6, role: markers, filename: assets/KR6s0102_006.markers.yaml, hash: 'sha256:41f134629212947474c0c79456fae864f1cd7e03a824dae23d87e4696a397b29'}
+  - {seq: 7, role: markers, filename: assets/KR6s0102_007.markers.yaml, hash: 'sha256:35be1b6e9d47e0d70aadee231712c64e173209ed53944db570ff344805973335'}
+  - {seq: 8, role: markers, filename: assets/KR6s0102_008.markers.yaml, hash: 'sha256:f798f33c77deccc8a84a9274ec0e9c5fdcc2aa2d1a4da85c67fef2e929d9db09'}
+  - {seq: 9, role: markers, filename: assets/KR6s0102_009.markers.yaml, hash: 'sha256:e5583fd4b5173681b735732538cbca5415bc8dce4d22a2b7db005e6c60372d0b'}
+  - {seq: 10, role: markers, filename: assets/KR6s0102_010.markers.yaml, hash: 'sha256:f3f35b7019142d1c7168d2142eef1cec1381fe8cba682976b8411cf1b5edd8e4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0102_L_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6s0102_L_000-mulu-2
+    span:
+    - front
+    - 396
+    - 396
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6s0102_L_000-mulu-3
+    span:
+    - front
+    - 794
+    - 794
+  label: 科分
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6s0102_L_000-mulu-4
+    span:
+    - front
+    - 1745
+    - 1745
+  label: 大乘經律論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0102_L_001-juan-start
+    span:
+    - body
+    - 0
+    - 8933
+  label: 大元續集法寶標目卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0102_L_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0102_L_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 般若部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0102_L_001-mulu-3
+    span:
+    - body
+    - 5136
+    - 5136
+  label: 寶積部
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0102_L_002-juan-start
+    span:
+    - body
+    - 0
+    - 8264
+  label: 大藏聖教法寶標目卷第二　　　　󲊷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0102_L_002-mulu-1
+    span:
+    - body
+    - 2656
+    - 2656
+  label: 大集部
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0102_L_002-mulu-2
+    span:
+    - body
+    - 4999
+    - 4999
+  label: 華嚴部
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0102_L_002-mulu-3
+    span:
+    - body
+    - 6996
+    - 6996
+  label: 涅槃部
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0102_L_002-mulu-4
+    span:
+    - body
+    - 8117
+    - 8117
+  label: 其他
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0102_L_003-juan-start
+    span:
+    - body
+    - 0
+    - 7170
+  label: 大藏聖教法寶標目卷第三　　　　󲊷三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0102_L_004-juan-start
+    span:
+    - body
+    - 0
+    - 8350
+  label: 大藏聖教法寶標目卷第四　　　　󲊷四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0102_L_005-juan-start
+    span:
+    - body
+    - 0
+    - 7495
+  label: 大藏聖教法寶標目卷第五　　　　󲊷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0102_L_005-mulu-1
+    span:
+    - body
+    - 5686
+    - 5686
+  label: 律
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0102_L_005-mulu-2
+    span:
+    - body
+    - 6893
+    - 6893
+  label: 論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0102_L_006-juan-start
+    span:
+    - body
+    - 0
+    - 7963
+  label: 大藏聖教法寶標目卷第六　　　　󲊷六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0102_L_006-mulu-1
+    span:
+    - body
+    - 3561
+    - 3561
+  label: 小乘經律論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0102_L_006-mulu-2
+    span:
+    - body
+    - 3561
+    - 3561
+  label: 經
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0102_L_007-juan-start
+    span:
+    - body
+    - 0
+    - 7138
+  label: 大藏聖教法寶標目卷第七　　　　󲊷七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0102_L_007-mulu-1
+    span:
+    - body
+    - 5657
+    - 5657
+  label: 律
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0102_L_008-juan-start
+    span:
+    - body
+    - 0
+    - 7427
+  label: 大藏聖教法寶標目卷第八　　　　󲊷八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0102_L_008-mulu-1
+    span:
+    - body
+    - 1483
+    - 1483
+  label: 論
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0102_L_008-mulu-2
+    span:
+    - body
+    - 4749
+    - 4749
+  label: 聖賢集、傳記、經錄等
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0102_L_009-juan-start
+    span:
+    - body
+    - 0
+    - 7228
+  label: 大藏聖教法寶標目卷第九　　　　󲊷九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0102_L_009-mulu-1
+    span:
+    - body
+    - 1808
+    - 1808
+  label: 貞元譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0102_L_009-mulu-2
+    span:
+    - body
+    - 7228
+    - 7228
+  label: 宋代新譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0102_L_010-juan-start
+    span:
+    - body
+    - 0
+    - 6151
+  label: 大藏聖教法寶標目卷第十　　　　󲊷十
+  type: juan
+  level: 1
+hash: sha256:3a2f4c67f91dfb596d4d705f5d28c34ee88abbea47a46993c6ca2879ab22f9a2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
