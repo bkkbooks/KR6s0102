@@ -21,7 +21,7 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6s0102_000.yaml, hash: 'sha256:2ae113ac0875907157b35c98c1d5eab2145fe69ba5bcb84a4a1464652195d1c5'}
+  - {seq: 0, filename: KR6s0102_000.yaml, hash: 'sha256:cb505d124cca7efd31f47629a85ef17bb94252a505c798210b7f82ddde27cd0a'}
   - {seq: 1, filename: KR6s0102_001.yaml, hash: 'sha256:a8992a2772dd47ba91ff6941e25d0a1aa0d4bc0dac9e5cb2656dbd1db7f330a2'}
   - {seq: 2, filename: KR6s0102_002.yaml, hash: 'sha256:eaf8f575fd22c76cbb5a0e51201cb7a883ce1ee54bfa131324444fddf8ba55bd'}
   - {seq: 3, filename: KR6s0102_003.yaml, hash: 'sha256:461f6b45b9671e35f0a59d9455aa341acd8a18c5544ec68e5fc4817553dca285'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6s0102_009.yaml, hash: 'sha256:fc95474d0706f817df629ba292e4fca56e1d5a5448be8f14e5ed94324a9ad312'}
   - {seq: 10, filename: KR6s0102_010.yaml, hash: 'sha256:97c077b97af05b788f61b149796c6e80ffc09f64880f1ac50f517d38c9db3572'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0102_000.markers.yaml, hash: 'sha256:94f6d4ef5548d3e4781d30bb4ce65a469de546b7222e29a6c8c2baf0ef692712'}
+  - {seq: 0, role: markers, filename: assets/KR6s0102_000.markers.yaml, hash: 'sha256:1724f38edb0f688ef1087371ab4bf5ca358482032afb72f9085360c83399c504'}
   - {seq: 1, role: markers, filename: assets/KR6s0102_001.markers.yaml, hash: 'sha256:32fa9ba0d8014b8ecbe8350f12d06a309f415a3b210cc05e66260ea8d1387b1a'}
   - {seq: 2, role: markers, filename: assets/KR6s0102_002.markers.yaml, hash: 'sha256:2efd4f823919ad62186b425c32513eba0a4864dd9f0e1e96bdc7bb709f2422ed'}
   - {seq: 3, role: markers, filename: assets/KR6s0102_003.markers.yaml, hash: 'sha256:89fea30e4702f917ba4fe147268f881527d252c0093567cf44f52f4fbd86faa4'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6s0102_L_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序偈
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6s0102_L_000-mulu-2
     span:
-    - front
+    - body
     - 396
     - 396
   label: 序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6s0102_L_000-mulu-3
     span:
-    - front
+    - body
     - 794
     - 794
   label: 科分
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6s0102_L_000-mulu-4
     span:
-    - front
+    - body
     - 1745
     - 1745
   label: 大乘經律論
@@ -345,7 +345,7 @@ table_of_contents:
   label: 大藏聖教法寶標目卷第十　　　　󲊷十
   type: juan
   level: 1
-hash: sha256:c906cad39cd19fd3856ec430896c91ccd7ad3fb9ee0fa797d887f3942dae1212
+hash: sha256:4944d6c785f8ebf280ac689a4a18d5c1ac77ed23006555d57c4bef554e08ddd9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
